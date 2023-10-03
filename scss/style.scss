@@ -166,45 +166,39 @@ a {
 
 	&:nth-child(2) {
 		.timeline-img-header {
-			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://hd.unsplash.com/photo-1458530970867-aaa3700e966d') center center no-repeat;
+			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://www.thoughtco.com/thmb/TbqrxDSxd57eiMPykhaS4MKVxFA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__mnn__images__2016__10__Hand-Stencils-Cueva-de-las-Manos-1c4faac631494c9588853580c7cc866d.jpg') center center no-repeat;
 			background-size: cover;
 		}
 	}
 
 	&:nth-child(5) {
 		.timeline-img-header {
-			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://hd.unsplash.com/photo-1444093826349-9ce8c622f4f3') center center no-repeat;
-			background-size: cover;
-		}
-	}
-
-	&:nth-child(6) {
-		.timeline-img-header {
-			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://hd.unsplash.com/photo-1471479917193-f00955256257') center center no-repeat;
+			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://nutcrakerman.files.wordpress.com/2016/01/jiahu.jpg') center center no-repeat;
 			background-size: cover;
 		}
 	}
 
 	&:nth-child(8) {
 		.timeline-img-header {
-			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://hd.unsplash.com/photo-1466840787022-48e0ec048c8a') center center no-repeat;
+			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://otaokitchen.com.au/files/thumb/600/450//uploads//Japan%20/wok-and-pan.jpeg') center center no-repeat;
 			background-size: cover;
 		}
 	}
 
-	&:nth-child(10) {
+	&:nth-child(9) {
 		.timeline-img-header {
-			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://hd.unsplash.com/photo-1447639703758-f525f36456bf') center center no-repeat;
+			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://hd.unsplash.com/photo-1466840787022-48e0ec048c8a') center center no-repeat;
 			background-size: cover;
 		}
 	}
 
 	&:nth-child(11) {
 		.timeline-img-header {
-			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://hd.unsplash.com/photo-1469429978400-082eec725ad5') center center no-repeat;
+			background: linear-gradient(rgba(0,0,0,0), rgba(0,0,0, .4)), url('https://hips.hearstapps.com/esq.h-cdn.co/assets/16/36/esq-9-11-stories-september-2003-05-of-11-ap.jpg?fill=1600:1280&resize=980:*') center center no-repeat;
 			background-size: cover;
 		}
 	}
+	
 }
 
 .timeline-img-header {
@@ -293,4 +287,11 @@ blockquote {
 
 .container {
 	width: 80%;
+}
+
+.end-paragraph blockquote {
+	color: #cdd6f4;
+	text-align: left;
+	font-size: 24px !important;
+	font-family: Karla;
 }
